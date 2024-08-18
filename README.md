@@ -10,7 +10,4 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevin-gram&show_icons=true&locale=en" alt="kevin-gram" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-gram&" alt="kevin-gram" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin-gram&show_icons=true&locale=en&layout=compact" alt="kevin-gram" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevin-gram" alt="kevin-gram" /></a></p>
+
