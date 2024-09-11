@@ -20,3 +20,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin-gram&show_icons=true&locale=en&layout=compact" alt="kevin-gram" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-gram&" alt="kevin-gram" /></p>
+<p><img align="center" src="https://www.codewars.com/users/kevin-Nk/badges/micro" alt="kevin-gram" /></p>
