@@ -21,3 +21,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-gram&" alt="kevin-gram" /></p>
 <p><img align="center" src="https://www.codewars.com/users/kevin-Nk/badges/micro" alt="kevin-gram" /></p>
+<p><img align="center" src="https://github.com/user-attachments/assets/d3e49851-1faf-4792-9ebe-aae2592f5f07" alt="kevin-gram" /></p>
+
+
