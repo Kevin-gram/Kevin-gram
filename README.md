@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin-gram&label=Profile%20views&color=0e75b6&style=flat" alt="kevin-gram" /> </p>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **SAPUI5**
 
 - 💬 Ask me about **React , Tailwind, TS ,Js**
 
