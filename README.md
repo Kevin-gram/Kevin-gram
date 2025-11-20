@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin-gram&label=Profile%20views&color=0e75b6&style=flat" alt="kevin-gram" /> </p>
 
-- 🌱 I’m currently learning **SAPUI5**
+- 🌱 I’m an SAP Developer
   
-- 💬 Ask me about **React , Tailwind, TS ,Js**
+- 💬 Ask me about **CAP,RAP,FIORI/UI5,CPI,SAP Process Automation , React , Tailwind, TS ,Js**
 
 - 📫 How to reach me **nyiringangokevin@gmail.com**
 
